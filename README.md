@@ -1,0 +1,1 @@
+This Project is a samll test Project I have creaed assuming all my email are stored in Dyanmo DB. This project basically goes through all the records and then gets the promotional emails and their sender email along with the link to unsubscribe. 
